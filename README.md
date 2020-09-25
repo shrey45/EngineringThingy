@@ -6,3 +6,7 @@ We have to do this
 * Hi my name is **tacobob**
 
 <img src="randomimage/taco.png" alt="taco" width="130" height="130">
+
+**Look Below to see the OnShape Fundamentals Completion Screenshot for Shrey Panicker**
+
+<img scr="randomimage/Onshapefundamentals.png" alt="Onshapefundamentals" width="130" height="130">
