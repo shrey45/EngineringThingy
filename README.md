@@ -9,4 +9,4 @@
 
 **Look Below to see the OnShape Fundamentals Completion Screenshot for Shrey Panicker**
 
-<img scr="randomimage/Onshapefundamentals.png" alt="Onshapefundamentals" width="130" height="130">
+<img src="randomimage/Onshapefundamentals.png" alt="Onshapefundamentals" width="130" height="130">
